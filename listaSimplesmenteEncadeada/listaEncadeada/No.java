@@ -1,4 +1,4 @@
-package EstruturaDeDados;
+package listaEncadeada;
 
 public class No {
     private No proximo;

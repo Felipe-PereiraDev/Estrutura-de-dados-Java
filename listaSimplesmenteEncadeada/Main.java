@@ -1,4 +1,4 @@
-import EstruturaDeDados.Lista;
+import listaEncadeada.Lista;
 
 import java.util.Scanner;
 
